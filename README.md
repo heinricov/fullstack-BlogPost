@@ -32,3 +32,12 @@
    npx create-next-app@latest web
    ```
 2. Select `use recommended defaults`
+
+# Next Setup Project
+
+1. First we focus on the `backend` project.
+2. let's in to the project directory
+   ```bash
+   cd api
+   ```
+3. For the next setup, we can see the [README.md](api/README.md) file.
