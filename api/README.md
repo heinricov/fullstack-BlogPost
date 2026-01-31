@@ -17,3 +17,7 @@ let's install them.
 ```bash
 npm install --save @nestjs/typeorm typeorm pg @nestjs/config @nestjs/jwt @nestjs/passport dotenv class-validator class-transformer
 ```
+
+# Setup Documentation List
+
+- [TypeORM](steps/setup-typeorm.md)
