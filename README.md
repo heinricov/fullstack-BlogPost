@@ -24,3 +24,11 @@
    ```bash
    rm -rf api/.git
    ```
+
+## Nextjs
+
+1. Create new project
+   ```bash
+   npx create-next-app@latest web
+   ```
+2. Select `use recommended defaults`
